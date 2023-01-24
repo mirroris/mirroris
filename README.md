@@ -3,8 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirroris&show_icons=true&theme=aura)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mirroris&repo=Alexandros&theme=aura)](https://github.com/mirroris/Alexandros)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mirroris&repo=Gopro&theme=aura)](https://github.com/mirroris/Gopro)
 <!--
 **mirroris/mirroris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
