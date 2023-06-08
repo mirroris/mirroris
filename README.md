@@ -1,7 +1,5 @@
 ### Hi there !
 
-## This is My Inroduction!!
-https://mirroris.github.io/
 
 I continue editing this site while learning philosophy.
 <!--
