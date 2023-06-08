@@ -1,7 +1,6 @@
 ### Hi there !
 
 
-I continue editing this site while learning philosophy.
 <!--
 **mirroris/mirroris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
